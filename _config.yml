@@ -17,7 +17,8 @@ url:
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
 baseurl: 
-remote_theme :kimtaegyuu/LOFFER
+remote_theme :FromEndWorld/LOFFER
+
 
 #
 # 下面的设定都是可选的
