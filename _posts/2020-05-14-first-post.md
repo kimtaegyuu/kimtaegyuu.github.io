@@ -1,14 +1,28 @@
 ---
 layout: post
-title:  "Hello, Jekyll"
-date:   2020-05-14 21:03:36 +0530
+title:  "Team Project Progress"
+date:   2020-05-24 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+## 프로젝트 선정 과정
+* Keras-docs-ko, chrome-tabnote 두 개의 후보군이 있었음<br>
+  * Keras-docs-ko
+    * 장점: 번역 작업을 통한 접근성 낮은 기여활동이 가능하며, 이슈나 커밋 활동 등이 활발한 프로젝트이다.
+    * 단점: 프로그래밍적인 기여를 할 방법이 없다.
+  * Chrome-tabnote
+    * 장점: 프로그래밍을 할 수 있는 기회가 많다.
+    * 단점: 이슈 내용, 커밋 활동 등이 활발하지 않은 프로젝트이다.
+* 팀 내 회의를 통해 최종적으로 Keras-docs-ko 를 선정<br>
+<hr>
+<br>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## 선정한 프로젝트 소개
+* 파이썬 기반 딥러닝 라이브러리 'Keras'<br>
+* 이러한 케라스 공식 문서를 한글화한 프로젝트이다. 이미 딥러닝에 익숙한 연구자 및 개발자 외에도 처음 딥러닝을 접하는 사용자들이 최대한 쉽게 이해하고 사용할 수 있도록 그 의미와 용법, 용례가 정확하고 명료하게 그리고 최대한 자연스러운 문장으로 나타나도록 작성되었다. <br>
+<hr>
+<br>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## 현재 진행상황
+* 팀원 개인별로 번역할 문서를 정함 <br>
+* 팀 정적 페이지를 만들었으며, 앞으로 내용을 추가해갈 예정 <br>
+<br>
